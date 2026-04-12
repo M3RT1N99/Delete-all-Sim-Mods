@@ -361,3 +361,10 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# ----------------------------------------------------------------------------
+# clarion-nx502e subproject
+# Never commit Clarion firmware, extraction artefacts, or analysis dumps.
+# Only the scripts and docs live in git.
+# ----------------------------------------------------------------------------
+clarion-nx502e/firmware/
